@@ -346,7 +346,7 @@ namespace etl
     //***************************************************************************
     /// Bool conversion operator.
     //***************************************************************************
-    explicit operator bool() const
+    ETL_EXPLICIT operator bool() const
     {
       return valid;
     }
