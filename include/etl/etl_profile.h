@@ -1,0 +1,12 @@
+#ifndef __ETL_PROFILE_H__
+#define __ETL_PROFILE_H__
+
+
+#define ETL_CPP11_SUPPORTED 0
+#define ETL_CPP14_SUPPORTED 0
+#define ETL_CPP17_SUPPORTED 0
+#define ETL_NO_NULLPTR_SUPPORT 1
+#define ETL_NO_LARGE_CHAR_SUPPORT 1
+#define ETL_NO_64BIT_TYPES
+
+#endif
